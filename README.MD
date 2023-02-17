@@ -298,7 +298,7 @@ Repository: <a href="https://github.com/Ex05/archived_projects/tree/master/DeepM
 
 Having been created in 2012, the DeepMiner project represents the first step of my journey in learning about and applying GPU based rendering techniques.
 
-DeepMiner was created with the help of resources like the OpenGL SuperBible, the OpenGL Programming Guide, Oskar Veerhoek's LWJGL video series, and many others.
+DeepMiner was created with the help of resources like the OpenGL SuperBible, the OpenGL Programming Guide and Oskar Veerhoek's LWJGL video series.
 
 Utilising only OpenGL 1.1 functionality made accessible to the Java runtime by the Lightweight Java Game Library (LWJGL). DeepMiner makes all its rendering calls in OpenGLs immediate mode and has to resend all its rendering information every frame for every displayed object.
 
